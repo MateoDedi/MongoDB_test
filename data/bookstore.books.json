@@ -1,0 +1,205 @@
+[{
+  "_id": {
+    "$oid": "655c7e045a82af8a1e0686c2"
+  },
+  "Title": "Name of the Wind",
+  "Author": "Patrick Rothfuss",
+  "Pages": 600,
+  "Genres": [
+    "fantasy",
+    "magical"
+  ],
+  "rating": 9
+},
+{
+  "_id": {
+    "$oid": "655c7e925a82af8a1e0686c4"
+  },
+  "title": "The Final Empire",
+  "author": "Brandon Sanderson",
+  "pages": 450,
+  "genres": [
+    "fantasy",
+    "dystopian"
+  ],
+  "rating": 8
+},
+{
+  "_id": {
+    "$oid": "655c7e925a82af8a1e0686c5"
+  },
+  "title": "The Way of the King",
+  "author": "Brandon Sanderson",
+  "pages": 350,
+  "genres": [
+    "fantasy",
+    "dystopian"
+  ],
+  "rating": 9
+},
+{
+  "_id": {
+    "$oid": "655c7e925a82af8a1e0686c6"
+  },
+  "title": "The Call of the Weird",
+  "author": "Louis Theroux",
+  "pages": 350,
+  "genres": [
+    "non-fiction",
+    "strange",
+    "comedy"
+  ],
+  "rating": 7
+},
+{
+  "_id": {
+    "$oid": "655c86a155445da7909ba25b"
+  },
+  "title": "Dune",
+  "author": "Frank Herbert",
+  "pages": 500,
+  "rating": 10,
+  "genres": [
+    "sci-fi",
+    "dystopian"
+  ]
+},
+{
+  "_id": {
+    "$oid": "655c8eba55445da7909ba25c"
+  },
+  "title": "The Way of Kings",
+  "author": "Brandon Sanderson",
+  "rating": 9,
+  "pages": 400,
+  "genres": [
+    "fantasy"
+  ],
+  "reviews": [
+    {
+      "name": "Yoshi",
+      "body": "Great book!!"
+    },
+    {
+      "name": "mario",
+      "body": "so so"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "655c8f1d55445da7909ba25e"
+  },
+  "title": "The Name of the Wind",
+  "author": "Patrick Rothfuss",
+  "page": 500,
+  "rating": 10,
+  "genres": [
+    "fantasy"
+  ],
+  "review": [
+    {
+      "name": "peach",
+      "body": "one of my favs"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "655c858c55445da7909ba258"
+  },
+  "title": "The Color of Magic",
+  "author": "Terry Pratchett",
+  "pages": 300,
+  "rating": 7,
+  "genres": [
+    "fantasy",
+    "magic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "655c86a155445da7909ba25a"
+  },
+  "title": "The Light Fantastic",
+  "author": "Terry Pratchett",
+  "pages": 250,
+  "rating": 6,
+  "genres": [
+    "fantasy"
+  ]
+},
+{
+  "_id": {
+    "$oid": "655c8f1d55445da7909ba25d"
+  },
+  "title": "The Light Fantastic",
+  "author": "Terry Pratchett",
+  "pages": 250,
+  "rating": 6,
+  "genres": [
+    "fantasy",
+    "magic"
+  ],
+  "reviews": [
+    {
+      "name": "luigi",
+      "body": "it was pretty good"
+    },
+    {
+      "name": "bowser",
+      "body": "loved it!!"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "655c8f1d55445da7909ba25f"
+  },
+  "title": "The Color of Magic",
+  "author": "Terry Pratchett",
+  "page": 350,
+  "rating": 8,
+  "genres": [
+    "fantasy",
+    "magic"
+  ],
+  "review": [
+    {
+      "name": "luigi",
+      "body": "it was ok"
+    },
+    {
+      "name": "bowser",
+      "body": "really good book"
+    }
+  ],
+  "pages": 360
+},
+{
+  "_id": {
+    "$oid": "655c8f1d55445da7909ba260"
+  },
+  "title": "1984",
+  "author": "George Orwell",
+  "page": 300,
+  "rating": 6,
+  "genres": [
+    "sci-fi",
+    "dystopian",
+    "fantasy",
+    "1",
+    "2"
+  ],
+  "review": [
+    {
+      "name": "peach",
+      "body": "not my cup of tea"
+    },
+    {
+      "name": "mario",
+      "body": "meh"
+    }
+  ],
+  "pages": 0
+}]
